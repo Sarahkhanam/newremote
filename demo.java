@@ -3,4 +3,4 @@ vim demo.java
 
 
 hello world
-:wq
+feature1 updated changes in demo.java
