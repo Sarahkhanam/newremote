@@ -3,4 +3,4 @@ vim demo.java
 
 
 hello world
-:wq
+hello to f1
