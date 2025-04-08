@@ -1,7 +1,5 @@
 vim demo.java
-
-
-
+hello
 hello world
 <<<<<<< HEAD
 <<<<<<< HEAD
