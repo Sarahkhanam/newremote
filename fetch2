@@ -1,2 +1,17 @@
 hello
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dummy HTML Page</title>
+</head>
+<body>
+  <h1>This is a Heading</h1>
+  <p>This is a paragraph of dummy text.</p>
 
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</body>
+</html>
